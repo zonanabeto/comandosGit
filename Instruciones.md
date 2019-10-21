@@ -52,3 +52,7 @@
 __ISSUES__
 
 * __git commit -am "bla bla fixes _#numero de issue_"__
+
+__SSH KEY__ - En carpeta .ssh ejecutar el siguiente comando
+
+* __ssh-keygen -t rsa -C "*Nombre*"__ - Generacion de clabe SSH
